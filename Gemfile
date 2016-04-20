@@ -16,6 +16,8 @@ gem 'pg'
 gem 'jwt'
 gem 'rack-cors'
 gem 'rack-attack'
+gem 'devise'
+gem 'active_model_serializers'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
